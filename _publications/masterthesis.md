@@ -1,5 +1,5 @@
 ---
-title: 'A Common Currency of Motivation [Master's Thesis]'
+title: 'A Common Currency of Motivation [Master Thesis]'
 collection: publications
 category: thesis
 permalink: /publication/masterthesis
