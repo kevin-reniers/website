@@ -1,5 +1,5 @@
 ---
-title: "Opinion [Dutch]: "Stop strafrechtelijke motivatie voor onderwijs en maak van de leerplicht een leerrecht"
+title: "Opinion [Dutch]: 'Stop strafrechtelijke motivatie voor onderwijs en maak van de leerplicht een leerrecht'"
 collection: publications
 category: manuscripts
 permalink: /publications/ParoolMaart.md
