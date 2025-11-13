@@ -1,7 +1,7 @@
 ---
 title: "Opinion (Dutch): 'Maak onderwijs écht democratisch, dan bloeien leerlingen op'"
 collection: publications
-category: conferences
+category: Opinion
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'De wet voor burgerschapsonderwijs uit 2021 stelt dat kinderen meer moeten leren over democratische waarden, maar we kunnen niet verwachten dat een lesje maatschappijleer kinderen klaarstoomt voor de democratie, vindt Kevin Reniers.'
 date: 2022-08-09
