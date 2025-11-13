@@ -23,12 +23,12 @@ repository               : "https://github.com/kevin-reniers/website"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "BoardPicture2024-1_crop.JPG"
   name             : "Kevin Reniers, MSc."
   pronouns         : # example: "she/her"  
-  bio              : "Hi, this is a test website! "
-  location         : "Nijmegen"
-  employer         : "Radboud UMC / Blink "
+  bio              : "Hi, welcome to my page. Please note, this website is under construction!"
+  location         : "Nijmegen, The Netherlands"
+  employer         : "Donders Institute / Radboud UMC / Blink "
   uri              : # URL
   email            : "kevin.reniers@ru.nl" 
 
