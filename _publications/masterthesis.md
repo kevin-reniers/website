@@ -7,5 +7,5 @@ excerpt: "Within my master's thesis, I set up an fMRI experiment together with t
 date: 2025-08-21
 venue: 'Radboud University'
 paperurl: 'https://kevin-reniers.github.io/website/files/CNSMasterThesis_ACommonCurrencyOfMotivation_Kevin_Reniers_21-08-2025.pdf'
-citation: "Reniers, K. (2025). &quot;A Common Currency of Motivation. How Curiosity and Reward Shape the Brain's Memory Systems.&quot; <i>Radboud University</i>. 1(3)."
+citation: "Reniers, K. (2025). &quot;A Common Currency of Motivation. How Curiosity and Reward Shape the Brain's Memory Systems.&quot; [Master's thesis, Radboud University]."
 ---
