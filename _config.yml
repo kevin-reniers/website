@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Kevin Reniers - Cognitive Neuroscientist"
 title_separator          : "-"
 name                     : &name "Kevin Reniers"
 description              : &description "This is the personal website of Kevin Reniers, cognitive neuroscientist currently working in the Lifespan Cognitive Dynamics lab of Rogier Kievit and the Learning and Motivation lab of Harold Bekkering at the Donders Institute and as a researcher at the educational publisher Blink."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://kevin-reniers.github.io/website/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://kevin-reniers.github.io/website # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/kevin-reniers/website"
