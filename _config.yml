@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Kevin Reniers"
+title                    : "Kevin Reniers - Cognitive Neuroscientist"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Kevin Reniers"
+description              : &description "This is the personal website of Kevin Reniers, cognitive neuroscientist currently working in the Lifespan Cognitive Dynamics lab of Rogier Kievit and the Learning and Motivation lab of Harold Bekkering at the Donders Institute and as a researcher at the educational publisher Blink."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/kevin-reniers/website"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Kevin Reniers, MSc."
   pronouns         : # example: "she/her"  
-  bio              : "Hi, this is test website! "
+  bio              : "Hi, this is a test website! "
   location         : "Nijmegen"
-  employer         : "Radboud University Medical Center / Blink "
+  employer         : "Radboud UMC / Blink "
   uri              : # URL
   email            : "kevin.reniers@ru.nl" 
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : kevin-reniers
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
