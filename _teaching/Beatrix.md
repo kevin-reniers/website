@@ -1,17 +1,15 @@
 ---
 title: "Physics Teacher at Beatrix College - Intern"
 collection: teaching
-type: "High school teaching"
+type: "Secondary education teaching"
 permalink: /teaching/Beatrix
-venue: "Beatrix college, "
+venue: "Beatrix college, Tilburg"
 date: 2022-02-01
-location: "Eindhoven, The Netherlands"
+location: "Tilburg, The Netherlands"
 ---
 
-English
-======
+*English* <br>
 For the educational minor to become a 2nd-degree (middle school) physics teacher, I thought classes at the Beatrix College in Tilburg. 
 
-Dutch
-======
+*Dutch* <br>
 Voor de educatieve minor om een tweedegraads (onderbouw) natuurkundedocent te worden, heb ik lesgegeven op het Beatrix college in Tilburg. 
