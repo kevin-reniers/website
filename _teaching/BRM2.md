@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BRM2
 venue: "Eindhoven University of Technology (TU/e), Industrial Engineering and Innovation Sciences, Bsc Psychology & Technology"
-date: 2022-11
+date: 2022-11-01
 location: "Eindhoven, The Netherlands"
 ---
 
