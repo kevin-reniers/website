@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Intrinsic and extrinsic motivations interact dynamically across time in predicting subsequent memory (NVP 2025)<br />NVP Winter Conference 2025, Egmond aan Zee; Egmond aan Zee, The Netherlands",
+    "Intrinsic and extrinsic motivations interact dynamically across time in predicting subsequent memory (NVP 2025)<br />NVP Winter Conference 2025; Egmond aan Zee, The Netherlands",
     52.6183093,
     4.6256307
   ],
