@@ -5,7 +5,7 @@ var addressPoints = [
     4.6256307
   ],
   [
-    "Workshop - Het grote Blink onderwijscongres 2026 (Dutch)<br />De Rijtuigenloods Amersfoort; Amersfoort, The Netherlands",
+    "Het grote Blink onderwijscongres 2026 (Dutch)<br />De Rijtuigenloods Amersfoort; Amersfoort, The Netherlands",
     52.1637702,
     5.4088845
   ]
