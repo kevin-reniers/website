@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Kevin Reniers - Cognitive Neuroscientist"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Kevin Reniers"
 description              : &description "This is the personal website of Kevin Reniers, cognitive neuroscientist currently working in the Lifespan Cognitive Dynamics lab of Rogier Kievit and the Learning and Motivation lab of Harold Bekkering at the Donders Institute and as a researcher at the educational publisher Blink."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "BoardPicture2024-1_crop.JPG"
   name             : "Kevin Reniers, MSc."
   pronouns         : # example: "she/her"  
-  bio              : "A recently graduated cognitive neuroscientist - and physics teacher in the make - with a huge interest for teaching and education! <br><br> <i>Member of the</i> <br> <b><a href='https://lifespancognitivedynamics.com/' target='_blank'>Lifespan Cognitive Dynamics lab</a> <br> (Prof. Rogier Kievit)</b> <br> <i>and the</i> <br> <b>Learning and Motivation lab <br>(Prof. Harold Bekkering)</b>"
+  bio              : "A cognitive neuroscientist - and physics teacher in the make - with a huge interest for teaching, education and motivation science! <br><br> <i>Member of the</i> <br> <b><a href='https://lifespancognitivedynamics.com/' target='_blank'>Lifespan Cognitive Dynamics lab</a> <br> (Prof. Rogier Kievit)</b> <br> <i>and the</i> <br> <b>Learning and Motivation lab <br>(Prof. Harold Bekkering)</b>"
   location         : "Nijmegen, The Netherlands"
   employer         : "Blink <i>and</i> Donders Institute"
   uri              : # URL
