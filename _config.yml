@@ -89,6 +89,8 @@ publication_category:
     title: 'Conference Papers'
   opinion: 
     title: 'Opinion pieces'
+  interactive apps: 
+    title: 'Interactive apps'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
