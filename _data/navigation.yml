@@ -23,11 +23,11 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
+  - title: "CV"
+    #url: /cv/
+    url: /files/Academic_CV_Kevin_Reniers_online_updated-12-2025.pdf
   #- title: "CV"
-  #  url: /cv/
-  #   url: /files/Academic_CV_Kevin_Reniers_online_updated-11-2025.pdf
-  # - title: "CV"
-  #   url: /cv-json/
+  #  url: /cv-json/
     
   #- title: "Guide"
   #  url: /markdown/
