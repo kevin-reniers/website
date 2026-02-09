@@ -9,3 +9,4 @@ venue: 'Radboud University'
 paperurl: 'https://kevin-reniers.github.io/website/files/CNSMasterThesis_ACommonCurrencyOfMotivation_Kevin_Reniers_21-08-2025.pdf'
 citation: "Reniers, K. (2025). &quot;A Common Currency of Motivation. How Curiosity and Reward Shape the Brain's Memory Systems.&quot; [Master's thesis, Radboud University]."
 ---
+[Link to the Radboud Educational Repository](https://theses.ubn.ru.nl/handle/123456789/20151)
