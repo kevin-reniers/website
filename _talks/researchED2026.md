@@ -1,9 +1,9 @@
 ---
-title: "Nieuwsgierigheid als motor van leren (researchED Nederland 2026)"
+title: "researchED Nederland 2026: Nieuwsgierigheid als motor van leren (Dutch)"
 collection: talks
 type: "Talk"
 permalink: /talks/researchED2026
-venue: "Corlaer College"
+venue: "researchED Nederland 2026"
 date: 2026-06-13
-location: "Nijkerk, The Netherlands"
+location: "Corlaer College, Nijkerk, The Netherlands"
 ---
