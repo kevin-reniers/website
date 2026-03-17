@@ -1,7 +1,7 @@
 ---
 title: "Learning and Motivation: Investigating the role of Curiosity (Graduate course: Trends in CNS)"
 collection: talks
-type: "Talk"
+type: "Lecture"
 permalink: /talks/Trends2026
 venue: "Donders Institute, Radboud University"
 date: 2026-02-09
