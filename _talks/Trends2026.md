@@ -1,5 +1,5 @@
 ---
-title: "Learning and Motivation: Investigating the role of Curiosity (Graduate course: Trends in CNS)"
+title: "Trends in Cognitive Neuroscience (Graduate course) - Learning and Motivation: Investigating the role of Curiosity"
 collection: talks
 type: "Lecture"
 permalink: /talks/Trends2026
