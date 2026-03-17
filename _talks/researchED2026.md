@@ -1,5 +1,5 @@
 ---
-title: "researchED Nederland 2026: Nieuwsgierigheid als motor van leren (Dutch)"
+title: "researchED Nederland 2026 - Nieuwsgierigheid als motor van leren (Dutch)"
 collection: talks
 type: "Talk"
 permalink: /talks/researchED2026
