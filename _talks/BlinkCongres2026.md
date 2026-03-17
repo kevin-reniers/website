@@ -1,5 +1,5 @@
 ---
-title: "Het grote Blink onderwijscongres 2026 (Dutch)"
+title: "Het grote Blink onderwijscongres 2026 - Instructie versus motivatie: Predictive processing in de klas (Dutch)"
 collection: talks
 type: "Workshop"
 permalink: /talks/BlinkCongres2026
