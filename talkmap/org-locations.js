@@ -10,6 +10,11 @@ var addressPoints = [
     5.4088845
   ],
   [
+    "Multilevel Conference 2026 - Modelling intra-individual differences in variability using 4-level hierarchical dynamic structural equation models (DSEM): How to optimally trade-off fixed and random effects with respect to model complexity?<br />Utrecht University; Utrecht, The Netherlands",
+    52.0907006,
+    5.1215634
+  ],
+  [
     "Trends in Cognitive Neuroscience (Graduate course) - Learning and Motivation: Investigating the role of Curiosity<br />Donders Institute, Radboud University; Nijmegen, The Netherlands",
     51.8474946,
     5.8637771
