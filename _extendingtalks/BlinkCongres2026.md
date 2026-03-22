@@ -2,7 +2,7 @@
 title: "Het grote Blink onderwijscongres 2026 - Instructie versus motivatie: Predictive processing in de klas (Dutch)"
 collection: talks
 type: "Workshop"
-permalink: /talks/BlinkCongres2026
+permalink: /extendingtalks/BlinkCongres2026
 venue: "De Rijtuigenloods Amersfoort"
 date: 2026-03-18
 location: "Amersfoort, The Netherlands"
