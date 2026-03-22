@@ -23,5 +23,10 @@ var addressPoints = [
     "NVP 2025 - Intrinsic and extrinsic motivations interact dynamically across time in predicting subsequent memory<br />NVP Winter Conference 2025; Egmond aan Zee, The Netherlands",
     52.6183093,
     4.6256307
+  ],
+  [
+    "Weekend van de Wetenschap 2025 - De Zintuigenkamer (Dutch)<br />Het Breinmuseum, Latijnse School; Nijmegen, The Netherlands",
+    51.8474946,
+    5.8637771
   ]
 ];
