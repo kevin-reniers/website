@@ -3,9 +3,8 @@ title: "Het grote Blink onderwijscongres 2026 - Instructie versus motivatie: Pre
 collection: extendingtalks
 category: public_outreach
 permalink: /extendingtalks/BlinkCongres2026
-venue: "De Rijtuigenloods Amersfoort"
+venue: "De Rijtuigenloods, Amersfoort, The Netherlands"
 date: 2026-03-18
-location: "Amersfoort, The Netherlands"
 ---
 
 **Instructie versus motivatie: predictive processing in de klas** <br>
