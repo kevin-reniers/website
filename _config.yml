@@ -92,6 +92,16 @@ publication_category:
   interactive apps: 
     title: 'Interactive apps'
 
+# Talk Category - The following the list of talk categories and their headings
+talk_category:
+  science:
+    title: 'Science'
+  education:
+    title: 'Education'    
+  public_outreach:
+    title: 'Public Outreach'
+
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
