@@ -4,7 +4,7 @@ collection: talks
 type: "Workshop booth (public outreach)"
 permalink: /talks/Kletskoppen2026
 venue: "Bibliotheek Mariënburg"
-date: 2026-22-02
+date: 2026-22-2
 location: "Nijmegen, The Netherlands"
 ---
 **[Herrie in je Hoofd](https://kletskoppenfestival.nl/herrie-in-je-hoofd/)**
