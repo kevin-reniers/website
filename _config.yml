@@ -241,7 +241,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  extendingtalks:
+  talks:
     output: true
     permalink: /:collection/:path/
 
