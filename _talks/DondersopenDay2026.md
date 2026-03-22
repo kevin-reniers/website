@@ -4,7 +4,7 @@ collection: talks
 type: "Workshop booth (public outreach)"
 permalink: /talks/DondersopenDay2026
 venue: "Trigon, Donders Institute"
-date: 2026-21-03
+date: 2026-03-21
 location: "Nijmegen, The Netherlands"
 ---
 **[De Brein Show](https://www.ru.nl/donders-institute/agenda/donders-institute-open-dag)**
