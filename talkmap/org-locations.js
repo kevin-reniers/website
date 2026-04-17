@@ -11,8 +11,8 @@ var addressPoints = [
   ],
   [
     "researchED Nederland 2026 - Nieuwsgierigheid als motor van leren (Dutch)<br />researchED Nederland 2026; Corlaer College, Nijkerk, The Netherlands",
-    52.2103888,
-    5.4654578
+    52.2107001,
+    5.4635863
   ],
   [
     "Donders Open Day 2026 - De Brein Show (Dutch)<br />Trigon, Donders Institute; Nijmegen, The Netherlands",
