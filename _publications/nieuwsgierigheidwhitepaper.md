@@ -6,7 +6,7 @@ permalink: /publication/nieuwsgierigheidwhitepaper
 excerpt: "In de gratis whitepaper ‘Nieuwsgierigheid is dé motor van leren’ vertelt cognitief neurowetenschapper Kevin Reniers (Donders Instituut, Radboud Universiteit) je alles over de drie drijfveren van nieuwsgierigheid."
 date: 2026-06-22
 venue: 'Blink'
-paperurl: 'files/Blink_Whitepaper-Nieuwsgierigheid_interactive-pdf_juni-2026.pdf'
+paperurl: 'https://kevin-reniers.github.io/website/files/Blink_Whitepaper-Nieuwsgierigheid_interactive-pdf_juni-2026.pdf'
 ---
 
 
