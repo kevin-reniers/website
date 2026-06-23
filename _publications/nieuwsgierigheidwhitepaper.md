@@ -1,5 +1,5 @@
 ---
-title: 'Whitepaper: Nieuwsgierigheid is de motor van leren'
+title: 'Whitepaper (Dutch): Nieuwsgierigheid is de motor van leren'
 collection: publications
 category: manuscripts
 permalink: /publication/nieuwsgierigheidwhitepaper
