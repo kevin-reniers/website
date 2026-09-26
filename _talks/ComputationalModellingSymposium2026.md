@@ -1,5 +1,5 @@
 ---
-title: "Computational Modelling Symposium - Varying Variability: Four-level Bayesian Multilevel Dynamic Structural Equation Modelling of Variability at Multiple Timescales in a Large Longitudinal Cognitive Dataset"
+title: "Computational Modelling Symposium - Varying Variability: Four-level Bayesian Multilevel Dynamic Structural Equation Modelling of Variability at Multiple Timescales in a Large Longitudinal Cognitive Dataset"
 collection: talks
 type: "Scientific talk"
 permalink: /talks/ComputationalModellingSymposium2026
