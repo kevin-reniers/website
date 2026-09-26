@@ -1,5 +1,5 @@
 ---
-title: "EARLI SIG 22: Neuroscience and Education Conference 2026 - Dynamical aspects of the effect of curiosity, reward incentives and their interaction on memory"
+title: "EARLI SIG 22: Neuroscience and Education Conference 2026 - Dynamical aspects of the effect of curiosity, reward incentives and their interaction on memory"
 collection: talks
 type: "Poster presentation"
 permalink: /talks/EARLI_SIG22_2026
