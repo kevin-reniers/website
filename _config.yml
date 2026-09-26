@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "About me"
 title_separator          : "-"
 name                     : &name "Kevin Reniers"
-description              : &description "This is the personal website of Kevin Reniers, cognitive neuroscientist currently working in the Lifespan Cognitive Dynamics lab of Rogier Kievit and the Learning and Motivation lab of Harold Bekkering at the Donders Institute and as a researcher at the educational publisher Blink."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "This is the personal website of Kevin Reniers, PhD candidate and cognitive neuroscientist currently working in the Learning and Motivation lab of Harold Bekkering and Lieke van Lieshout and the Predictive Brain lab of Floris de Lange at the Donders Institute."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://kevin-reniers.github.io/website # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "BoardPicture2024-1_crop.JPG"
   name             : "Kevin Reniers, MSc."
   pronouns         : # example: "she/her"  
-  bio              : "A cognitive neuroscientist - and physics teacher in the make - with a huge interest for teaching, statistics, education and motivation science! <br><br> <i>Member of the</i> <br> <b><a href='https://lifespancognitivedynamics.com/' target='_blank'>Lifespan Cognitive Dynamics lab</a> <br> (Prof. Rogier Kievit)</b> <br> <i>and the</i> <br> <b>Learning and Motivation lab <br>(Prof. Harold Bekkering)</b>"
+  bio              : "A cognitive neuroscientist - and physics teacher in the make - with a huge interest for teaching, statistics, education and motivation science! <br><br>  <br> <i>Member of the</i> <br> <b>Learning and Motivation lab <br>(Prof. Harold Bekkering)</b> <br> <i>and the</i> <br> <b><a href='https://www.predictivebrainlab.com/' target='_blank'>Predictive Brain lab</a> <br> (Prof. Floris de Lange)</b>. <br> <i>Ex-member of the</i> <br> <b><a href='https://lifespancognitivedynamics.com/' target='_blank'>Lifespan Cognitive Dynamics lab</a> <br> (Prof. Rogier Kievit)</b>"
   location         : "Nijmegen, The Netherlands"
   employer         : "Blink <i>and</i> Donders Institute"
   uri              : # URL
